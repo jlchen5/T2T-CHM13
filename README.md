@@ -2,8 +2,8 @@
 
 Organism name: Homo sapiens (human)  
 Isolate: [^CHM13]  
-Sex: [^femaleBio] 
-Sample: [^SAMN03255769]  
+Sex: [^female]: famale
+Bio Sample: [^SAMN03255769]  
 BioProject: [^PRJNA559484]  
 Submitter: [^T2T]   
 ConsortiumDate: [^2021/05/07]  
