@@ -1,12 +1,12 @@
 # T2T-CHM13 (_v2.0_)
 
 Organism name: Homo sapiens (human)  
-Isolate: CHM13  
-Sex: femaleBio  
-Sample: SAMN03255769   
-BioProject: PRJNA559484  
-Submitter: T2T   
-ConsortiumDate: 2021/05/07  
+Isolate: [^CHM13]  
+Sex: [^femaleBio ] 
+Sample: [^SAMN03255769 ]  
+BioProject: [^PRJNA559484]  
+Submitter: [^T2T]   
+ConsortiumDate: [^2021/05/07]  
 Assembly level: Complete Genome  
 Genome representation: full  
 GenBank assembly accession: GCA_009914755.3 (replaced)  
