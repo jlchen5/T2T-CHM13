@@ -17,7 +17,7 @@ Genome coverage: 30x
 
 T2T-CHM13 is the new human genome from Telomere to Telomere (T2T). However the chromosome number is quite different with hg38/19 version.  
 
-![chromosome]https://github.com/jlchen5/T2T-CHM13/blob/main/t2t_chm13.png
+![chromosome](https://github.com/jlchen5/T2T-CHM13/blob/main/t2t_chm13.png)
 
 
   
