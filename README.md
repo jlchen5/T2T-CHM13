@@ -17,17 +17,17 @@ Genome coverage: 30x
 
 T2T-CHM13 is the new human genome from Telomere to Telomere (T2T). However the chromosome number is quite different with hg38/19 version.  
 
-|Molecule name|	GenBank sequence	|	RefSeq sequence
-|Chromosome 1	|CP068277.2	|n/a	|n/a|
-|Chromosome 2	|CP068276.2	|n/a	|n/a|
-|Chromosome 3	|CP068275.2	|n/a	|n/a|
-|Chromosome 4	|CP068274.2	|n/a	|n/a|
-|Chromosome 5	|CP068273.2	|n/a	|n/a|
-|Chromosome 6	|CP068272.2	|n/a	|n/a|
-|Chromosome 7	|CP068271.2	|n/a	|n/a|
-|Chromosome 8	|CP068270.2	|n/a	|n/a|
-|Chromosome 9	|CP068269.2	|n/a	|n/a|
-|Chromosome 10	|CP068268.2	|n/a	|n/a|
+| Molecule name |	GenBank sequence |	RefSeq sequence | 
+| Chromosome 1	|CP068277.2	|n/a	|n/a|
+| Chromosome 2	|CP068276.2	|n/a	|n/a|
+| Chromosome 3	|CP068275.2	|n/a	|n/a|
+| Chromosome 4	|CP068274.2	|n/a	|n/a|
+| Chromosome 5	|CP068273.2	|n/a	|n/a|
+| Chromosome 6	|CP068272.2	|n/a	|n/a|
+| Chromosome 7	|CP068271.2	|n/a	|n/a|
+| Chromosome 8	|CP068270.2	|n/a	|n/a|
+| Chromosome 9	|CP068269.2	|n/a	|n/a|
+| Chromosome 10	|CP068268.2	|n/a	|n/a|
 |Chromosome 11	|CP068267.2	|n/a	|n/a|
 |Chromosome 12	|CP068266.2	|n/a	|n/a|
 |Chromosome 13	|CP068265.2	|n/a	|n/a|
